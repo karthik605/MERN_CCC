@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+
+#card {
+    color: blue;
+    background: linear-gradient(navy, brown);
+}
+
+p.car {
+    color: linear-gradient(navy, brown);
+    background: linear-gradient(red, yellow);
+}
+
+* {
+    padding: 10px;
+}
+
+h1,
+h2 {
+    color: orange;
+}
